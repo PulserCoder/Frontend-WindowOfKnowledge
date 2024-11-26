@@ -1,0 +1,13 @@
+:root {
+    --background-color: #f9f9f9;
+    --message-area-bg: #ffffff;
+    --message-shadow: rgba(0, 0, 0, 0.1);
+    --client-bubble-bg: #007bff;
+    --client-bubble-text: #fff;
+    --support-bubble-bg: #e5e5e5;
+    --support-bubble-text: #000;
+    --input-border: #ccc;
+    --button-bg: #007bff;
+    --button-bg-hover: #0056b3;
+    --font-family: Arial, sans-serif;
+}
