@@ -16,6 +16,7 @@
     --buttonMargin: 10px;
     --chatPrewHeight: 55vh;
     --chatPrewWidth: 30vw;
+    --buttonOpenRadius: 10%;
 }
 
 body {

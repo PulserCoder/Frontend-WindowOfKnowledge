@@ -73,7 +73,7 @@
     padding: calc(0.5% + 0.5vh); /* Динамический отступ */
     border-radius: 4%;
     border: 1px solid var(--inputBorder);
-    font-size: calc(0.5% + 0.6vh); /* Шрифт зависит от размера чата */
+    font-size: calc(110.5% + 0.6vh); /* Шрифт зависит от размера чата */
     height: 60%; /* Занимает всю высоту input-area */
     width: calc(10%);
 }
